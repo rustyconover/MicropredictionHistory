@@ -1,0 +1,15 @@
+name = "MicropredictionHistory"
+uuid = "99f885b2-0fd5-4c4e-b569-d7047d81a786"
+authors = ["rusty <rusty@luckydinosaur.com>"]
+version = "0.1.0"
+
+[deps]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GZip = "92fee26a-97fe-5a0c-ad85-20a5f3185b63"
+Microprediction = "ebaa5f0b-dc11-48a5-a8ef-dd4c5640c3b9"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TimeSeries = "9e3dc215-6440-5c97-bce1-76c03772f85e"
